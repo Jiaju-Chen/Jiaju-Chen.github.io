@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the academic page of Jiaju Chen."
+title: "This is Jiaju Chen's academic page."
 author_profile: true
 redirect_from: 
   - /about/
