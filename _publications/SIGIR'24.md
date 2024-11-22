@@ -3,7 +3,7 @@ title: "Treatment Effect Estimation for User Interest Exploration on Recommender
 collection: publications
 category: conferences
 permalink: /publication/SIGIR'24
-excerpt: '***KEYWORDS***: Recommender Systems, User Interest Exploration, Treatment Effect
+excerpt: 'KEYWORDS: Recommender Systems, User Interest Exploration, Treatment Effect
 Estimation, Multivariate Continuous Treatments'
 date: 2024-07-11
 venue: "SIGIR"
