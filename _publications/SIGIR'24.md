@@ -6,7 +6,7 @@ permalink: https://dl.acm.org/doi/10.1145/3626772.3657736
 excerpt: '***KEYWORDS***: Recommender Systems, User Interest Exploration, Treatment Effect
 Estimation, Multivariate Continuous Treatments'
 date: 2024-07-11
-venue: "SIGIR '24"
+venue: "SIGIR"
 paperurl: 'https://arxiv.org/abs/2405.08582'
 citation: "Chen, J., Wenjie, W., Gao, C., Wu, P., Wei, J., & Hua, Q. (2024, July). Treatment Effect Estimation for User Interest Exploration on Recommender Systems. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1861-1871)."
 ---
