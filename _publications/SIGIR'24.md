@@ -2,7 +2,7 @@
 title: "Treatment Effect Estimation for User Interest Exploration on Recommender Systems"
 collection: publications
 category: conferences
-permalink: https://dl.acm.org/doi/10.1145/3626772.3657736
+permalink: /publication/SIGIR'24
 excerpt: '***KEYWORDS***: Recommender Systems, User Interest Exploration, Treatment Effect
 Estimation, Multivariate Continuous Treatments'
 date: 2024-07-11
