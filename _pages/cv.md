@@ -17,20 +17,29 @@ Education
 Work experience
 ======
 * 2023.3-Now: Intern at Kuaishou
-  * Duties includes: Scientific research on recommendation algorithms;
-  * Supervisor: Qingpeng Cai
-  * Achievements:
-    * conduct online algorithms, raise average app-time by +0.120%; [精选页指标] follow +1.002% forward +0.984% download +1.018% collect +1.102% negative -2.627%
-    * [one paper](https://arxiv.org/abs/2408.12470) published in WSDM'25
+  * **Responsibilities:**
+    - Conducted scientific research on recommendation algorithms.  
+    - Developed and optimized online algorithms to enhance user engagement.
+  * **Supervisor:** Qingpeng Cai
+  * **Key Achievements:**
+    - Improved average app time by **+0.120%**.  
+    - Enhanced metrics on the curated page:
+      - Follow rate: **+1.002%**
+      - Forward rate: **+0.984%**
+      - Download rate: **+1.018%**
+      - Collection rate: **+1.102%**
+      - Reduced negative feedback: **-2.627%**
+    * Published [one paper](https://arxiv.org/abs/2408.12470) in **WSDM'25**
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* TOFLE
+* **Programming Skills**
+  - Proficient in:
+    - **PyTorch**: Deep learning framework for research and development.
+    - **TensorFlow**: Specialized in recommendation system implementations.
+    - **LLM Fine-Tuning**: Experience in fine-tuning large language models.
+* Language Proficiency
+  - **English**: TOEFL Score: **98**
 
 Publications
 ======
