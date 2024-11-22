@@ -3,7 +3,7 @@ title: "DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender
 collection: publications
 category: conferences
 permalink: /publication/WSDM'25
-excerpt: '*KEYWORDS*: Controllable Recommendation, Large Language Models, Diversity'
+excerpt: 'KEYWORDS: Controllable Recommendation, Large Language Models, Diversity'
 date: 2025-03-10
 venue: "WSDM"
 paperurl: 'https://arxiv.org/abs/2408.12470'
