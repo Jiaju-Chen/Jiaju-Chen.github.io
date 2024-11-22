@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiaju Chen | 陈家驹"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # "he/his" # example: "she/her"  
   bio              : "I'm a 2nd-year master at USTC Lab for Data Science, supervised by Prof. Xiangnan He, interested in Large Language Models (LLMs) and Recommender Systems (RecSys)."
   location         : "Anhui, China"
   employer         : "University of Science and Technology of China"
