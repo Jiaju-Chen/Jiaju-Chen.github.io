@@ -7,100 +7,108 @@ author_profile: true
 
 ## Research Overview
 
-My research sits at the intersection of **Large Language Models (LLMs)** and **Recommender Systems (RecSys)**, with a vision to create intelligent systems that truly understand and serve user needs. I'm particularly passionate about addressing the fundamental challenges in modern recommendation systems: balancing accuracy with diversity, exploring hidden user interests, and leveraging the power of LLMs for more nuanced, controllable recommendations.
+My research focuses on **LLM Agent** and **Data Mining**, with applications in recommendation systems and economic simulation. I aim to develop intelligent autonomous systems that can reason, learn, and interact with complex environments.
 
 ---
 
 ## Research Interests
 
-### 🤖 LLM-Powered Recommendation Systems
+### LLM Agent
 
-Exploring how large language models can revolutionize recommender systems through:
-- **Semantic Understanding**: Leveraging LLMs' deep language comprehension for better content understanding
-- **Context-Aware Generation**: Creating recommendations that consider user context and intent
-- **Controllable Generation**: Enabling fine-grained control over recommendation properties
-- **Prompt Engineering**: Designing effective prompts for recommendation tasks
+Developing autonomous agents powered by large language models:
 
-**Key Work:** [DLCRec (WSDM 2025)](/publication/WSDM'25) - A novel framework for managing diversity in LLM-based recommendations through fine-grained task decomposition.
+- Autonomous Reasoning: Building agents that can independently analyze problems and make decisions
+- Multi-Agent Systems: Designing collaborative frameworks where multiple agents interact
+- Tool Learning: Enabling LLMs to effectively use external tools and APIs
+- Economic Simulation: Applying LLM agents to model economic behaviors and market dynamics
 
-### 📊 Causal Inference for Recommendations
+### Data Mining
 
-Applying causal inference techniques to understand and optimize user-item interactions:
-- **Treatment Effect Estimation**: Quantifying the impact of different recommendation strategies
-- **Hidden Interest Discovery**: Uncovering user preferences beyond observed behavior
-- **Exploration-Exploitation Balance**: Strategically allocating recommendations across content categories
-- **Bias Mitigation**: Using inverse propensity weighting and other techniques to reduce confounding
+Extracting meaningful patterns and insights from large-scale data:
 
-**Key Work:** [UpliftRec (SIGIR 2024)](/publication/SIGIR'24) - An uplift model-based framework that optimizes category exposure through treatment effect estimation.
+- Pattern Discovery: Uncovering hidden structures in complex datasets
+- Causal Inference: Understanding cause-effect relationships in observational data
+- User Behavior Analysis: Mining insights from user interaction patterns
+- Scalable Algorithms: Developing efficient methods for large-scale data processing
 
-### 🎯 Diversity and Controllability
+### Recommender Systems
 
-Developing methods to give users more control over their recommendation experience:
-- **Controllable Diversity**: Allowing users to specify desired levels of recommendation diversity
-- **Multi-Objective Optimization**: Balancing accuracy, diversity, novelty, and other metrics
-- **User Intent Modeling**: Understanding and respecting user preferences for exploration vs. exploitation
-- **Fairness-Aware Recommendations**: Ensuring equitable exposure across content providers
+Building intelligent systems for personalized content delivery:
 
-### 🔬 User Behavior Modeling
+- Diversity Management: Balancing accuracy with content diversity
+- Treatment Effect Estimation: Applying causal methods to optimize recommendations
+- LLM Integration: Leveraging language models for semantic understanding
+- Production Deployment: Scaling algorithms to serve millions of users
 
-Understanding the complexities of user interactions with recommender systems:
-- **Implicit Feedback Processing**: Extracting signals from clicks, dwell time, and other implicit indicators
-- **Long-Term User Satisfaction**: Optimizing for sustained engagement rather than short-term metrics
-- **Interest Evolution**: Modeling how user preferences change over time
-- **Cold Start Problems**: Handling new users and items effectively
+---
+
+## Selected Publications
+
+**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**  
+Chen, Jiaju, et al.  
+Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining. 2025.  
+[Paper](https://arxiv.org/abs/2408.12470)
+
+A framework for fine-grained diversity control in LLM-based recommendations through task decomposition and data augmentation.
+
+**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**  
+Chen, Jiaju, et al.  
+Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024.  
+[Paper](https://arxiv.org/abs/2405.08582)
+
+An uplift model-based framework that optimizes category exposure through causal treatment effect estimation.
 
 ---
 
 ## Current Projects
 
-### Production System at Kuaishou
-Working on large-scale recommendation systems serving millions of daily active users:
-- Developing algorithms that improve user engagement metrics (app time, follow rate, etc.)
-- Deploying causal inference techniques in production environments
-- Conducting A/B tests to validate research findings at scale
+### Zhongguancun Academy (2025 - Present)
+Economic simulation research using LLM agents and data mining techniques
 
-### Academic Research at USTC
-Collaborating with the Lab for Data Science on fundamental research:
-- Exploring new architectures for LLM-based recommender systems
-- Investigating fairness and transparency in recommendations
-- Publishing findings at top-tier conferences (SIGIR, WSDM, etc.)
+### USTC Lab for Data Science (2023 - Present)
+Fundamental research on LLM agents and their applications in complex systems
+
+### Kuaishou Technology (2023 - Present)
+Large-scale recommendation systems serving millions of daily active users
 
 ---
 
 ## Research Impact
 
-My work has led to measurable improvements in real-world systems:
+Production Systems:
+- Average app time: +0.120% improvement
+- Follow rate: +1.002% increase
+- Forward rate: +0.984% increase
+- Download rate: +1.018% increase
+- Collection rate: +1.102% increase
+- Negative feedback: -2.627% reduction
 
-**At Kuaishou:**
-- 📈 **+0.120%** improvement in average app time (affecting millions of users)
-- 📊 **+1.002%** increase in follow rate on curated pages
-- ✅ **-2.627%** reduction in negative feedback
-
-**Academic Recognition:**
-- Published at **SIGIR 2024** and **WSDM 2025**
-- Research cited by industry practitioners and academic researchers
+Academic Output:
+- Published at SIGIR 2024 and WSDM 2025
 - Algorithms deployed in production systems
+- Cited by researchers from academia and industry
 
 ---
 
 ## Future Directions
 
-I'm excited about several emerging research directions:
+Research areas I am exploring:
 
-1. **Multi-Modal Recommendations**: Integrating text, images, and video understanding through LLMs
-2. **Explainable AI**: Making LLM-based recommendations more interpretable and trustworthy
-3. **Personalized LLM Fine-Tuning**: Adapting LLMs to individual user preferences
-4. **Cross-Domain Recommendations**: Transferring knowledge across different content domains
-5. **Ethical AI**: Addressing fairness, privacy, and transparency challenges
+1. Multi-Agent Economic Simulation: Using LLM agents to model complex economic systems
+2. Autonomous Data Analysis: Developing agents that can independently conduct data mining tasks
+3. Cross-Domain Knowledge Transfer: Applying insights from one domain to another
+4. Scalable Agent Architectures: Building efficient frameworks for large-scale agent deployment
+5. Interpretable AI Systems: Making agent decisions transparent and understandable
 
 ---
 
 ## Collaborations
 
-I'm always interested in collaborating on projects related to:
-- LLM applications in recommender systems
-- Causal inference methodologies
-- Large-scale industrial recommendation systems
-- Novel evaluation metrics for recommendation quality
+I am interested in collaborating on:
 
-**Feel free to reach out if you're interested in collaboration or have questions about my research!**
+- LLM agent development and applications
+- Data mining methodologies and algorithms
+- Economic simulation and modeling
+- Large-scale production system optimization
+
+Feel free to reach out if you are interested in collaboration or have questions about my research.
