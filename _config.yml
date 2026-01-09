@@ -24,9 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Jiaju Chen | 陈家驹"
   pronouns         : # "he/his" # example: "she/her"  
-  bio              : "Master's Student @ USTC Lab for Data Science | Research Intern @ Kuaishou | Exploring LLMs & RecSys"
-  location         : "Hefei, Anhui, China"
+  bio              : "PhD Student in Intelligent Information and Technology @ USTC | LLM Agent & Data Mining"
+  location         : "Beijing, China"
   employer         : "University of Science and Technology of China"
+  employer_url     : "http://en.ustc.edu.cn/"
   uri              : # URL
   email            : "cjj01 at mail.ustc.edu.cn" 
 
@@ -117,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
