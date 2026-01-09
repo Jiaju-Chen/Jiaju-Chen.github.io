@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiaju Chen | Academic Homepage"
+title                    : "Academic Homepage"
 title_separator          : "-"
 name                     : &name "Jiaju Chen"
 description              : &description "Jiaju Chen's academic homepage - Research on Recommender Systems and Large Language Models"
