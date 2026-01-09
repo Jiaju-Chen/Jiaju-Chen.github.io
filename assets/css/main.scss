@@ -39,3 +39,71 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom styles for enhanced visual appearance */
+
+/* News/Updates section styling */
+.news-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  font-weight: bold;
+  color: #52adc8;
+  margin-right: 1rem;
+}
+
+/* Enhanced publication cards */
+.archive__item {
+  transition: transform 0.2s, box-shadow 0.2s;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.archive__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background: #fafafa;
+}
+
+/* Enhanced links in content */
+.page__content a {
+  color: #52adc8;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.page__content a:hover {
+  border-bottom-color: #52adc8;
+}
+
+/* Enhanced headings */
+.page__content h2 {
+  color: #2c3e50;
+  border-bottom: 3px solid #52adc8;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Statistics/metrics highlighting */
+.page__content strong {
+  color: #28a745;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Mobile responsiveness enhancements */
+@media (max-width: 768px) {
+  .page__content h2 {
+    font-size: 1.5rem;
+  }
+}

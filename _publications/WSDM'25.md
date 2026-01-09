@@ -3,11 +3,28 @@ title: "DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender
 collection: publications
 category: conferences
 permalink: /publication/WSDM'25
-excerpt: 'KEYWORDS: Controllable Recommendation, Large Language Models, Diversity'
+excerpt: 'A fine-grained controllable recommendation framework that enables precise diversity management in LLM-based systems through task decomposition and robust data augmentation techniques.'
 date: 2025-03-10
-venue: "WSDM"
+venue: "WSDM 2025 (The 18th ACM International Conference on Web Search and Data Mining)"
 paperurl: 'https://arxiv.org/abs/2408.12470'
 citation: "Chen, J., Gao, C., Yuan, S., Liu, S., Cai, Q., & Jiang, P. (2024). DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems. arXiv preprint arXiv:2408.12470."
 ---
 
-The integration of Large Language Models (LLMs) into recommender systems has led to substantial performance improvements. However, this often comes at the cost of diminished recommendation diversity, which can negatively impact user satisfaction. To address this issue, controllable recommendation has emerged as a promising approach, allowing users to specify their preferences and receive recommendations that meet their diverse needs. Despite its potential, existing controllable recommender systems frequently rely on simplistic mechanisms, such as a single prompt, to regulate diversity-an approach that falls short of capturing the full complexity of user preferences. In response to these limitations, we propose DLCRec, a novel framework designed to enable fine-grained control over diversity in LLM-based recommendations. Unlike traditional methods, DLCRec adopts a fine-grained task decomposition strategy, breaking down the recommendation process into three sequential sub-tasks: genre prediction, genre filling, and item prediction. These sub-tasks are trained independently and inferred sequentially according to user-defined control numbers, ensuring more precise control over diversity. Furthermore, the scarcity and uneven distribution of diversity-related user behavior data pose significant challenges for fine-tuning. To overcome these obstacles, we introduce two data augmentation techniques that enhance the model's robustness to noisy and out-of-distribution data. These techniques expose the model to a broader range of patterns, improving its adaptability in generating recommendations with varying levels of diversity. Our extensive empirical evaluation demonstrates that DLCRec not only provides precise control over diversity but also outperforms state-of-the-art baselines across multiple recommendation scenarios.
+## Abstract
+
+The integration of Large Language Models (LLMs) into recommender systems has led to substantial performance improvements. However, this often comes at the cost of diminished recommendation diversity, which can negatively impact user satisfaction. To address this challenge, we propose **DLCRec**, a novel framework designed to enable fine-grained control over diversity in LLM-based recommendations.
+
+## Key Contributions
+
+**Fine-Grained Task Decomposition:**  
+Unlike traditional methods that rely on simplistic mechanisms (e.g., a single prompt), DLCRec breaks down the recommendation process into three sequential sub-tasks: **genre prediction**, **genre filling**, and **item prediction**. This approach ensures more precise control over recommendation diversity according to user-defined preferences.
+
+**Robust Data Augmentation:**  
+To overcome challenges posed by scarce and unevenly distributed diversity-related user behavior data, we introduce two innovative data augmentation techniques. These methods enhance the model's robustness to noisy and out-of-distribution data, improving its adaptability across varying diversity levels.
+
+**Superior Performance:**  
+Our extensive empirical evaluation demonstrates that DLCRec not only provides precise diversity control but also outperforms state-of-the-art baselines across multiple recommendation scenarios, achieving better accuracy-diversity trade-offs.
+
+## Keywords
+
+Controllable Recommendation, Large Language Models, Diversity Management, Task Decomposition, Data Augmentation
