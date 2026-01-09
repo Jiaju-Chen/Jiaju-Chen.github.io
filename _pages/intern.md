@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Internship Experience"
+title: "Research & Practice"
 permalink: /intern/
 author_profile: true
 ---
@@ -9,9 +9,13 @@ author_profile: true
 **March 2023 - Present**  
 Supervisor: Qingpeng Cai
 
-### Research & Development
+### Research
 
-Conducted cutting-edge research on recommendation algorithms, focusing on user interest exploration and diversity management. Designed and implemented scalable online algorithms deployed to serve millions of daily active users. Collaborated with cross-functional teams to translate research findings into production systems.
+研究推荐系统可控性，尝试解耦 LLM 功能，构建特殊的工作流增加用户对 LLM 推荐系统的可控性。
+
+### Practice
+
+在精排阶段，对 PXTR 与 ensemble score 的逆序对数量为 loss，进行单步帕累托，充分发挥 PXTR 的打分信息。
 
 ### Impact & Achievements
 
@@ -20,19 +24,3 @@ Average app time: +0.120% | Follow rate: +1.002% | Forward rate: +0.984% | Downl
 
 **Research Output:**  
 Published [1 paper at WSDM 2025](https://arxiv.org/abs/2408.12470) based on work conducted during the internship.
-
-### Project Highlights
-
-- Developed and deployed diversity management algorithms for LLM-based recommender systems
-- Applied causal inference techniques (treatment effect estimation) to optimize user interest exploration
-- Conducted large-scale A/B testing experiments affecting millions of daily active users
-- Improved key engagement metrics across multiple product surfaces
-- Collaborated with product, engineering, and data science teams for production deployment
-
-### Technical Contributions
-
-- Built end-to-end recommendation pipelines using PyTorch and TensorFlow
-- Implemented LLM fine-tuning frameworks for personalized recommendations
-- Developed data augmentation techniques to handle distribution shifts
-- Optimized model serving latency for real-time inference at scale
-- Created evaluation frameworks for diversity and fairness metrics
