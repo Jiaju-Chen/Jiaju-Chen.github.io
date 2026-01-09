@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jiaju Chen's Academic Homepage"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,43 +9,33 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student at the USTC [Lab for Data Science](https://data-science.ustc.edu.cn/), advised by Prof. [Xiangnan He](https://hexiangnan.github.io/). My research focuses on **LLM Agent** and **Data Mining**, with particular interest in developing intelligent systems that can autonomously reason and interact with complex environments.
+I am a second-year Master's student at the USTC [Lab for Data Science](https://data-science.ustc.edu.cn/), where I have the privilege of working under the guidance of Prof. [Xiangnan He](https://hexiangnan.github.io/). My research lies at the intersection of **Recommender Systems (RecSys)** and **Large Language Models (LLMs)**, with a focus on enhancing user experiences through intelligent, personalized recommendations.
 
-I am also a joint-training PhD student at **Zhongguancun Academy** in Beijing, where I conduct research on economic simulation using advanced AI techniques.
-
-## Education
-
-**PhD in Intelligent Information and Technology**  
-University of Science and Technology of China, 2025 - Present  
-Advisor: Prof. Xiangnan He  
-Joint Training: Zhongguancun Academy (Economic Simulation Research)
-
-**MEng in Electronic Information**  
-University of Science and Technology of China, 2023 - 2025  
-Advisor: Prof. Xiangnan He
-
-**BSc in Data Science**  
-University of Science and Technology of China, 2019 - 2023
-
-## Publications
-
-**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**  
-Chen, Jiaju, et al. Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining. 2025.  
-[Paper](https://arxiv.org/abs/2408.12470)
-
-**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**  
-Chen, Jiaju, et al. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024.  
-[Paper](https://arxiv.org/abs/2405.08582)
+Currently, I am also working as a research intern at **Kuaishou Technology**, where I contribute to the development and optimization of recommendation algorithms that directly impact millions of users.
 
 ## Research Interests
 
-My research explores the intersection of large language models and autonomous systems:
+My research aims to bridge the gap between user preferences and content delivery by:
 
-- **LLM Agent**: Developing autonomous agents that can reason, plan, and execute complex tasks
-- **Data Mining**: Extracting meaningful patterns and insights from large-scale data
-- **Economic Simulation**: Applying AI techniques to model and simulate economic behaviors
-- **Recommender Systems**: Building intelligent systems for personalized content delivery
+- **LLM-Powered Recommendations**: Leveraging large language models to generate more contextually aware and diverse recommendations
+- **Treatment Effect Estimation**: Applying causal inference techniques to understand and optimize user interest exploration
+- **Controllable Recommendation Systems**: Developing frameworks that allow fine-grained control over recommendation diversity and personalization
+- **User Behavior Modeling**: Understanding implicit user interests and improving engagement through data-driven insights
+
+## Recent Highlights
+
+🎉 **[Jan 2025]** Our paper "DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems" has been accepted by **WSDM 2025**!
+
+🎉 **[Jul 2024]** Presented our work "Treatment Effect Estimation for User Interest Exploration" at **SIGIR 2024** in Washington, D.C.
+
+🏆 **[Impact]** At Kuaishou, our recommendation algorithms achieved significant improvements: Average app time: **+0.120%** | Follow rate: **+1.002%** | Forward rate: **+0.984%** | Download rate: **+1.018%** | Collection rate: **+1.102%** | Negative feedback: **-2.627%**
+
+## Featured Publications
+
+My work has been published at top-tier conferences in information retrieval and data mining, including **SIGIR** and **WSDM**. I focus on developing practical solutions that balance recommendation accuracy with diversity, ensuring users discover content that truly matches their evolving interests.
+
+**Check out my [Publications](/publications/), [Internship Experience](/intern/), and [CV](/cv/) for more details!**
 
 ---
 
-For more details, please check my [Research](/research/), [Publications](/publications/), and [CV](/cv/) pages.
+*I am actively seeking opportunities for PhD positions and research collaborations. Feel free to reach out if you're interested in my work!*

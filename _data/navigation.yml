@@ -8,11 +8,11 @@ main:
   - title: "About"
     url: /
   
-  - title: "Research"
-    url: /research/
-  
   - title: "Publications"
     url: /publications/
+  
+  - title: "Intern"
+    url: /intern/
 
   - title: "CV"
     url: /cv/
