@@ -35,7 +35,3 @@ My research aims to bridge the gap between user preferences and content delivery
 My work has been published at top-tier conferences in information retrieval and data mining, including **SIGIR** and **WSDM**. I focus on developing practical solutions that balance recommendation accuracy with diversity, ensuring users discover content that truly matches their evolving interests.
 
 **Check out my [Publications](/publications/), [Research & Practice](/intern/), and [CV](/cv/) for more details!**
-
----
-
-*I am actively seeking opportunities for PhD positions and research collaborations. Feel free to reach out if you're interested in my work!*
