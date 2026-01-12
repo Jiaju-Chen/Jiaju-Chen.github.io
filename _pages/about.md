@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student at the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) [Lab for Data Science](https://data-science.ustc.edu.cn/), where I have the privilege of working under the guidance of Prof. [Xiangnan He](https://hexiangnan.github.io/). My research lies at the intersection of **Recommender Systems (RecSys)** and **Large Language Models (LLMs)**, with a focus on enhancing user experiences through intelligent, personalized recommendations.
+I am a first-year PhD student at the [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) [Lab for Data Science](https://data-science.ustc.edu.cn/), where I have the privilege of working under the guidance of Prof. [Xiangnan He](https://hexiangnan.github.io/). My research lies at the intersection of **LLM agent** and **Data Mining**, with a focus on assisting user experiences on academic research and recommendations with LLMs.
 
 Currently, I am also working as a research intern at **Kuaishou Technology**, where I contribute to the development and optimization of recommendation algorithms that directly impact millions of users.
 

@@ -24,9 +24,10 @@ author:
   avatar           : "jiaju.jpg"
   name             : "Jiaju Chen | 陈家驹"
   pronouns         : # "he/his" # example: "she/her"  
-  bio              : "PhD Student in Intelligent Information and Technology @ USTC | LLM Agent & Data Mining"
-  location         : "Beijing, China"
-  employer         : "USTC"
+  bio              : |
+    PhD Student @ USTC
+    LLM Agent & Data Mining  location         : "Beijing, China"
+  employer         : "USTC" # 确保使用显式引号
   employer_url     : "http://en.ustc.edu.cn/"
   uri              : # URL
   email            : "cjj01@mail.ustc.edu.cn" 
