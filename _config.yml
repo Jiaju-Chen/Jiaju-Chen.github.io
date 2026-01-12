@@ -21,7 +21,7 @@ repository               : "Jiaju-Chen/Jiaju-Chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jiaju.jpg"
   name             : "Jiaju Chen | 陈家驹"
   pronouns         : # "he/his" # example: "she/her"  
   bio              : "PhD Student in Intelligent Information and Technology @ USTC | LLM Agent & Data Mining"
